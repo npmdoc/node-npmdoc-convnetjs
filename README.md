@@ -1,4 +1,7 @@
-# api documentation for  [convnetjs (v0.3.0)](http://convnetjs.com)  [![npm package](https://img.shields.io/npm/v/npmdoc-convnetjs.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-convnetjs) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-convnetjs.svg)](https://travis-ci.org/npmdoc/node-npmdoc-convnetjs)
+# npmdoc-convnetjs
+
+#### basic api documentation for  [convnetjs (v0.3.0)](http://convnetjs.com)  [![npm package](https://img.shields.io/npm/v/npmdoc-convnetjs.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-convnetjs) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-convnetjs.svg)](https://travis-ci.org/npmdoc/node-npmdoc-convnetjs)
+
 #### Deep Learning library. Supports Convolutional (and ordinary) Neural Networks
 
 [![NPM](https://nodei.co/npm/convnetjs.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/convnetjs)
@@ -47,7 +50,8 @@
     ],
     "name": "convnetjs",
     "optionalDependencies": {},
-    "version": "0.3.0"
+    "version": "0.3.0",
+    "bin": {}
 }
 ```
 
